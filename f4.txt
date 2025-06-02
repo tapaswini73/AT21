@@ -3,3 +3,7 @@ ctc
 delhi
 banglore
 hydrabad
+delhi
+mumbai
+chennai
+gujurat
