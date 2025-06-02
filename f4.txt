@@ -1,9 +1,6 @@
 bbsr
 ctc
-delhi
 banglore
 hydrabad
-delhi
-mumbai
-chennai
-gujurat
+pune
+tirupati
